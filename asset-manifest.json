@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/Trivia-Deploy/static/css/main.6fa92101.chunk.css",
+    "main.js": "/Trivia-Deploy/static/js/main.235a2f3f.chunk.js",
+    "main.js.map": "/Trivia-Deploy/static/js/main.235a2f3f.chunk.js.map",
+    "runtime-main.js": "/Trivia-Deploy/static/js/runtime-main.bd091721.js",
+    "runtime-main.js.map": "/Trivia-Deploy/static/js/runtime-main.bd091721.js.map",
+    "static/js/2.286f306d.chunk.js": "/Trivia-Deploy/static/js/2.286f306d.chunk.js",
+    "static/js/2.286f306d.chunk.js.map": "/Trivia-Deploy/static/js/2.286f306d.chunk.js.map",
+    "index.html": "/Trivia-Deploy/index.html",
+    "precache-manifest.b0c39e3370ce82ea85265ba41b811ff6.js": "/Trivia-Deploy/precache-manifest.b0c39e3370ce82ea85265ba41b811ff6.js",
+    "service-worker.js": "/Trivia-Deploy/service-worker.js",
+    "static/css/main.6fa92101.chunk.css.map": "/Trivia-Deploy/static/css/main.6fa92101.chunk.css.map",
+    "static/js/2.286f306d.chunk.js.LICENSE.txt": "/Trivia-Deploy/static/js/2.286f306d.chunk.js.LICENSE.txt",
+    "static/media/trivia.png": "/Trivia-Deploy/static/media/trivia.466d153e.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.bd091721.js",
+    "static/js/2.286f306d.chunk.js",
+    "static/css/main.6fa92101.chunk.css",
+    "static/js/main.235a2f3f.chunk.js"
+  ]
+}
